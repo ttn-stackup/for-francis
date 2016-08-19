@@ -1,6 +1,7 @@
 var session = require("express-session");
 var passport = require("passport");
 var local = require("./local");
+
 module.exports = function (app) {
 // Initialize session
     app.use(session({
