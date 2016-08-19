@@ -8,4 +8,7 @@ app.listen(3000, function () {
 // Expose app
 exports = module.exports = app;
 
+//require("./auth")(app);
+//require("./routes")(app);
 
+console.log("Hello World");

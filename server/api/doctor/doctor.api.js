@@ -1,3 +1,5 @@
+var Doctor = require("./doctor.model");
+
 module.exports.create = function(req, res){
 
 }

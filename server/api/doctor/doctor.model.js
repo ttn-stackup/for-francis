@@ -1,0 +1,5 @@
+{
+    name:String
+    smc: Number
+
+}

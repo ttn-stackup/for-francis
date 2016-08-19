@@ -26,4 +26,6 @@ module.exports = function(app){
     app.get("/api/ratings/list", RatingApi.list);
     app.get("/api/ratings/list", RatingApi.list);
     app.get("/api/ratings/list", RatingApi.list);
+
+
 };
